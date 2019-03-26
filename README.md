@@ -1,7 +1,7 @@
 # NYTimes
 NYTimes test application
 
-Devices supprted : iPhone
+Devices supported : iPhone
 Note: Unit and UI tests are not included
 
 To run the application 
