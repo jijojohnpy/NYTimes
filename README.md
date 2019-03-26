@@ -7,5 +7,6 @@ Note: Unit and UI tests are not included
 To run the application 
 1:download or clone the project
 2:open directly in xcode and run in simulator.
+Note: no need to run pod install. akll pod framework files are added to the repository.
 
 
